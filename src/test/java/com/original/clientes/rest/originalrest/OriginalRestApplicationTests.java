@@ -1,4 +1,4 @@
-package com.original.clientes.rest.tokiorest;
+package com.original.clientes.rest.originalrest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

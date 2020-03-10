@@ -1,8 +1,0 @@
-com\certisign\dossie\api\model\FormRecebimentoAPI.class
-com\certisign\dossie\api\service\DossieApiService.class
-com\certisign\dossie\api\controller\DossieApiController.class
-com\certisign\dossie\api\model\FormPesquisaAPI.class
-com\certisign\dossie\api\model\DossieAprovadoAPI.class
-com\certisign\dossie\api\model\FormRegistroAPI.class
-com\certisign\dossie\api\repository\DossieApiRepository.class
-com\certisign\dossie\api\DossieApiApplication.class
